@@ -1,4 +1,4 @@
-# armspedia-python-full-stack
+# Armspedia-python-full-stack
 Designed a user-friendly military database, incorporating both administrative and user interfaces, utilizing Python for the backend code, coupled with MySQL Connector for database connectivity, and Tkinter for the frontend graphical user interface.
 
 The admin section includes key functionalities such as adding new recruiters, managing repository details, forming emergency response teams, approving leave applications, and more.
